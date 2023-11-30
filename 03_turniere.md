@@ -120,11 +120,10 @@ New rounds are planned to start every full hour (unless the room is needed other
 During the JKU Games the Game Store Linz will hold Magic the Gathering Events in the Dice Area.<br>
 This is their schedule:
 
-| Start time | Tournament       |
-| ---------- | -----------------|
-| Fr to Sa   | On Demand Drafts	        |
-| Fr 18:00   | One Piece Paramount War Display Turnier		|
-| Fr 20:00   | Austrian Legacy Liga FNM		|
-| Sa 11:00   | Pioneer RCQ		|
+| Fr 16:00   | CEDH Tournament		|
+| Fr 18:00   | Legacy FNM	        |
+| Fr 18:00   | Lost Cave of Ixalan Draft	        |
+| Sa 11:00   | Modern RCQ		|
+| Sa 14:00   | One Piece OP-05 Tournament	
 
 
